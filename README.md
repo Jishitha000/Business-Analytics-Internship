@@ -1,5 +1,6 @@
 # Business-Analytics-Internship
-This repository contains projects and tasks completed during my Business Analytics Internship at Cognifyz Technologies. The projects focus on data exploration, visualization, statistical analysis, and business insights using Python.
+This repository contains projects and tasks completed during my Business Analytics Internship at Cognifyz Technologies.
+The projects focus on data exploration, visualization, statistical analysis, and business insights using Python.
 🚀 Key Highlights
 ✅ Data Overview – Importing datasets, exploring structure, and performing initial analysis
 ✅ Gender Distribution Analysis – Visualizing gender representation with bar charts & pie charts
